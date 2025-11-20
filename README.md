@@ -1,6 +1,10 @@
 ### Hello there 👋
 
-![hello-ther](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+![hello-there](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+
+<img class="output" src="https://github-readme-stats.vercel.app/api?username=patsissons&amp;theme=cobalt&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats" width="480">
+<img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=patsissons&amp;theme=cobalt&amp;hide_border=false" alt="github streak" width="480">
+<img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patsissons&amp;theme=cobalt&amp;show_icons=true&amp;hide_border=false&amp;layout=compact" alt="github top languages" width="480">
 
 <!--
 **patsissons/patsissons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
